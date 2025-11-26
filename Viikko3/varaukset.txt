@@ -1,0 +1,3 @@
+123|Anna Virtanen|2025-10-31|10:00|2|19.95|True|Kokoustila A|0401234567|anna.virtanen@example.com
+456|Matti Meikäläinen|2025-11-05|14:30|4|25.00|False|Kokoustila B|0509876543|matti@example.com
+789|Liisa Laaksonen|2025-12-12|09:00|1|35.50|True|Neuvotteluhuone C|0441112223|liisa.laaksonen@yritys.fi
