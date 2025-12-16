@@ -1,4 +1,4 @@
-ika,kulutus_kWh,tuotanto_kWh,keskilaempo
+aika,kulutus_kWh,tuotanto_kWh,keskilaempo
 2025-01-01T00:00:00,12.5,0.8, -5.2
 2025-01-01T01:00:00,11.2,0.7, -5.5
 2025-01-02T00:00:00,13.8,1.2, -4.8
