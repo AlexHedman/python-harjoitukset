@@ -1,5 +1,4 @@
 aika,kulutus_vaihe1_Wh,kulutus_vaihe2_Wh,kulutus_vaihe3_Wh,tuotanto_vaihe1_Wh,tuotanto_vaihe2_Wh,tuotanto_vaihe3_Wh
 2025-10-13T00:00:00,450,60,80,0,10,15
 2025-10-13T01:00:00,420,55,75,0,12,18
-... (jatketaan 24 tunnilla joka päivälle, mutta lyhyt esimerkki riittää)
 2025-10-19T23:00:00,510,70,95,5,25,30
